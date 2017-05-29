@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DesarrollandoUnaApp</string>
+    <string name="birthday">Fecha de nacimiento: </string>
+    <string name="description">Descripción de contacto: </string>
+    <string name="email">Email: </string>
+    <string name="name">Nombre completo: </string>
+    <string name="next">Siguiente</string>
+    <string name="phone">Teléfono: </string>
+    <string name="confirm">Confirmar datos</string>
+</resources>
